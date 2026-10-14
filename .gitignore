@@ -1,0 +1,21 @@
+*.pyc
+__pycache__/
+*.pyo
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 体积过大的原始固件文件不要进仓库（T5AppRes.dat 约 592MB）
+*.dat
+*.upg
+*.bin
+*.UPG
+*.DAT
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时产物
+*.log

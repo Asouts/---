@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 紫玉（Ziyu）与本项目贡献者
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 素材与数据部分的特别声明（重要）
+
+上述 MIT 许可**仅适用于本项目的源代码**（`src/` 目录下的脚本）。
+
+以下内容**不属于** MIT 许可范围，其权利归快易典（原厂商）所有：
+
+- `assets/` 目录下全部美术素材（背景、UI 图标、地块、作物贴图、装饰品）
+- `data/crops.json`、`data/stage_names.json` 中从固件提取的数值与文本
+- `点点农场_复刻版.html` 中上述素材 base64 编码后的副本
+
+本项目对这些内容的使用属于**个人学习与技术研究的逆向分析**，非商业用途，
+无意侵犯或替代原产品。请勿将素材用于任何商业目的。
+
+权利人如认为本项目侵犯其合法权益，请通过 Issue 联系，相关部分将被立即移除。

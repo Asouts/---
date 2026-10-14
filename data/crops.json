@@ -1,0 +1,1374 @@
+[
+  {
+    "id": 1,
+    "pinyin": "BaiLuoBo",
+    "name": "白萝卜",
+    "level_required": 0,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 125,
+    "fruit_price": 34,
+    "yield_per_season": 16,
+    "exp_per_harvest": 15,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      240,
+      420,
+      0,
+      600
+    ],
+    "total_minutes": 600,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        50,
+        51
+      ],
+      [
+        50,
+        51
+      ],
+      [
+        62,
+        77
+      ],
+      [
+        110,
+        108
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ec1512e"
+  },
+  {
+    "id": 2,
+    "pinyin": "YuMi",
+    "name": "玉米",
+    "level_required": 3,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 175,
+    "fruit_price": 46,
+    "yield_per_season": 17,
+    "exp_per_harvest": 19,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      240,
+      420,
+      600,
+      840
+    ],
+    "total_minutes": 840,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        64,
+        55
+      ],
+      [
+        42,
+        60
+      ],
+      [
+        86,
+        94
+      ],
+      [
+        86,
+        94
+      ],
+      [
+        86,
+        94
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eb2aa92"
+  },
+  {
+    "id": 3,
+    "pinyin": "CaoMei",
+    "name": "草莓",
+    "level_required": 10,
+    "seasons": 2,
+    "reharvest_min": 660,
+    "seed_price": 605,
+    "fruit_price": 54,
+    "yield_per_season": 24,
+    "exp_per_harvest": 20,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      240,
+      480,
+      780,
+      1080,
+      1440
+    ],
+    "total_minutes": 1440,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        44,
+        37
+      ],
+      [
+        77,
+        48
+      ],
+      [
+        76,
+        69
+      ],
+      [
+        100,
+        92
+      ],
+      [
+        100,
+        92
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eaaf8cd"
+  },
+  {
+    "id": 4,
+    "pinyin": "FeiZhouJu",
+    "name": "非洲菊",
+    "level_required": 15,
+    "seasons": 2,
+    "reharvest_min": 540,
+    "seed_price": 1800,
+    "fruit_price": 90,
+    "yield_per_season": 30,
+    "exp_per_harvest": 28,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      240,
+      480,
+      720,
+      960,
+      1260
+    ],
+    "total_minutes": 1260,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        44,
+        31
+      ],
+      [
+        84,
+        51
+      ],
+      [
+        87,
+        61
+      ],
+      [
+        102,
+        101
+      ],
+      [
+        102,
+        101
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eacd407"
+  },
+  {
+    "id": 5,
+    "pinyin": "PingGuo",
+    "name": "苹果",
+    "level_required": 10,
+    "seasons": 2,
+    "reharvest_min": 540,
+    "seed_price": 578,
+    "fruit_price": 48,
+    "yield_per_season": 23,
+    "exp_per_harvest": 18,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      240,
+      480,
+      720,
+      960,
+      1260
+    ],
+    "total_minutes": 1260,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        39,
+        22
+      ],
+      [
+        51,
+        72
+      ],
+      [
+        89,
+        97
+      ],
+      [
+        89,
+        97
+      ],
+      [
+        89,
+        97
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eaec9e4"
+  },
+  {
+    "id": 6,
+    "pinyin": "XiangJiao",
+    "name": "香蕉",
+    "level_required": 12,
+    "seasons": 2,
+    "reharvest_min": 840,
+    "seed_price": 900,
+    "fruit_price": 64,
+    "yield_per_season": 29,
+    "exp_per_harvest": 25,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      300,
+      660,
+      1020,
+      1440,
+      1860
+    ],
+    "total_minutes": 1860,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        46,
+        50
+      ],
+      [
+        77,
+        56
+      ],
+      [
+        100,
+        80
+      ],
+      [
+        91,
+        89
+      ],
+      [
+        91,
+        89
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eb0b5e8"
+  },
+  {
+    "id": 7,
+    "pinyin": "DaBaiCai",
+    "name": "大白菜",
+    "level_required": 1,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 168,
+    "fruit_price": 44,
+    "yield_per_season": 17,
+    "exp_per_harvest": 19,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      240,
+      420,
+      600,
+      840
+    ],
+    "total_minutes": 840,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        32,
+        22
+      ],
+      [
+        57,
+        57
+      ],
+      [
+        64,
+        52
+      ],
+      [
+        69,
+        58
+      ],
+      [
+        77,
+        61
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eb493e6"
+  },
+  {
+    "id": 8,
+    "pinyin": "MoGu",
+    "name": "蘑菇",
+    "level_required": 17,
+    "seasons": 3,
+    "reharvest_min": 1080,
+    "seed_price": 2600,
+    "fruit_price": 110,
+    "yield_per_season": 27,
+    "exp_per_harvest": 16,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      420,
+      900,
+      1380,
+      0,
+      2460
+    ],
+    "total_minutes": 2460,
+    "frame_sizes": [
+      [
+        92,
+        72
+      ],
+      [
+        92,
+        72
+      ],
+      [
+        92,
+        72
+      ],
+      [
+        92,
+        91
+      ],
+      [
+        92,
+        97
+      ],
+      [
+        92,
+        73
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eb5dc4d"
+  },
+  {
+    "id": 9,
+    "pinyin": "YeZi",
+    "name": "椰子",
+    "level_required": 19,
+    "seasons": 4,
+    "reharvest_min": 1380,
+    "seed_price": 3720,
+    "fruit_price": 130,
+    "yield_per_season": 27,
+    "exp_per_harvest": 32,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      600,
+      1260,
+      1920,
+      2580,
+      3300
+    ],
+    "total_minutes": 3300,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        28,
+        52
+      ],
+      [
+        107,
+        104
+      ],
+      [
+        107,
+        104
+      ],
+      [
+        107,
+        104
+      ],
+      [
+        107,
+        104
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eb82953"
+  },
+  {
+    "id": 16,
+    "pinyin": "NanGua",
+    "name": "南瓜",
+    "level_required": 9,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 325,
+    "fruit_price": 60,
+    "yield_per_season": 25,
+    "exp_per_harvest": 27,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      180,
+      420,
+      720,
+      1020,
+      1320
+    ],
+    "total_minutes": 1320,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        30,
+        31
+      ],
+      [
+        64,
+        59
+      ],
+      [
+        90,
+        84
+      ],
+      [
+        90,
+        84
+      ],
+      [
+        90,
+        84
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ebaccf3"
+  },
+  {
+    "id": 17,
+    "pinyin": "YangMei",
+    "name": "杨梅",
+    "level_required": 27,
+    "seasons": 5,
+    "reharvest_min": 840,
+    "seed_price": 6600,
+    "fruit_price": 168,
+    "yield_per_season": 27,
+    "exp_per_harvest": 18,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      300,
+      660,
+      1020,
+      1440,
+      1860
+    ],
+    "total_minutes": 1860,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        38,
+        42
+      ],
+      [
+        77,
+        88
+      ],
+      [
+        96,
+        100
+      ],
+      [
+        96,
+        100
+      ],
+      [
+        96,
+        100
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ebc946f"
+  },
+  {
+    "id": 18,
+    "pinyin": "HongMeiGui",
+    "name": "红玫瑰",
+    "level_required": 7,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 266,
+    "fruit_price": 54,
+    "yield_per_season": 22,
+    "exp_per_harvest": 23,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      180,
+      360,
+      540,
+      780,
+      1080
+    ],
+    "total_minutes": 1080,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        56,
+        44
+      ],
+      [
+        76,
+        87
+      ],
+      [
+        109,
+        103
+      ],
+      [
+        109,
+        103
+      ],
+      [
+        109,
+        103
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ebed0a7"
+  },
+  {
+    "id": 19,
+    "pinyin": "FanQie",
+    "name": "番茄",
+    "level_required": 6,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 251,
+    "fruit_price": 52,
+    "yield_per_season": 21,
+    "exp_per_harvest": 22,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      300,
+      540,
+      780,
+      1020
+    ],
+    "total_minutes": 1020,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        70,
+        46
+      ],
+      [
+        57,
+        90
+      ],
+      [
+        115,
+        117
+      ],
+      [
+        115,
+        117
+      ],
+      [
+        115,
+        117
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ec2db98"
+  },
+  {
+    "id": 20,
+    "pinyin": "YingTao",
+    "name": "樱桃",
+    "level_required": 22,
+    "seasons": 4,
+    "reharvest_min": 1800,
+    "seed_price": 5527,
+    "fruit_price": 156,
+    "yield_per_season": 33,
+    "exp_per_harvest": 42,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      840,
+      1680,
+      2520,
+      3420,
+      4320
+    ],
+    "total_minutes": 4320,
+    "frame_sizes": [
+      [
+        55,
+        20
+      ],
+      [
+        29,
+        44
+      ],
+      [
+        78,
+        71
+      ],
+      [
+        89,
+        91
+      ],
+      [
+        89,
+        91
+      ],
+      [
+        89,
+        91
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ec59f96"
+  },
+  {
+    "id": 21,
+    "pinyin": "TuDou",
+    "name": "土豆",
+    "level_required": 4,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 188,
+    "fruit_price": 48,
+    "yield_per_season": 18,
+    "exp_per_harvest": 20,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      240,
+      420,
+      660,
+      900
+    ],
+    "total_minutes": 900,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        46,
+        58
+      ],
+      [
+        75,
+        75
+      ],
+      [
+        108,
+        82
+      ],
+      [
+        108,
+        82
+      ],
+      [
+        108,
+        100
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ec79451"
+  },
+  {
+    "id": 22,
+    "pinyin": "TaoZi",
+    "name": "桃子",
+    "level_required": 13,
+    "seasons": 2,
+    "reharvest_min": 1080,
+    "seed_price": 1200,
+    "fruit_price": 80,
+    "yield_per_season": 32,
+    "exp_per_harvest": 33,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      480,
+      960,
+      1440,
+      1980,
+      2520
+    ],
+    "total_minutes": 2520,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        39,
+        63
+      ],
+      [
+        111,
+        102
+      ],
+      [
+        110,
+        113
+      ],
+      [
+        110,
+        113
+      ],
+      [
+        110,
+        113
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ec9d206"
+  },
+  {
+    "id": 23,
+    "pinyin": "QieZi",
+    "name": "茄子",
+    "level_required": 5,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 237,
+    "fruit_price": 50,
+    "yield_per_season": 20,
+    "exp_per_harvest": 21,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      300,
+      480,
+      720,
+      960
+    ],
+    "total_minutes": 960,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        48,
+        43
+      ],
+      [
+        83,
+        64
+      ],
+      [
+        93,
+        95
+      ],
+      [
+        93,
+        95
+      ],
+      [
+        93,
+        95
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eccaf46"
+  },
+  {
+    "id": 24,
+    "pinyin": "XiaoMai",
+    "name": "小麦",
+    "level_required": 2,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 168,
+    "fruit_price": 42,
+    "yield_per_season": 18,
+    "exp_per_harvest": 19,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      120,
+      240,
+      420,
+      600,
+      840
+    ],
+    "total_minutes": 840,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        28,
+        42
+      ],
+      [
+        49,
+        69
+      ],
+      [
+        76,
+        80
+      ],
+      [
+        80,
+        90
+      ],
+      [
+        80,
+        90
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ecec50f"
+  },
+  {
+    "id": 26,
+    "pinyin": "YouZi",
+    "name": "柚子",
+    "level_required": 17,
+    "seasons": 3,
+    "reharvest_min": 1560,
+    "seed_price": 2855,
+    "fruit_price": 116,
+    "yield_per_season": 33,
+    "exp_per_harvest": 39,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      660,
+      1380,
+      2100,
+      2880,
+      3660
+    ],
+    "total_minutes": 3660,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        32,
+        46
+      ],
+      [
+        81,
+        73
+      ],
+      [
+        100,
+        102
+      ],
+      [
+        100,
+        102
+      ],
+      [
+        100,
+        102
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ed06e48"
+  },
+  {
+    "id": 25,
+    "pinyin": "WanDou",
+    "name": "豌豆",
+    "level_required": 7,
+    "seasons": 1,
+    "reharvest_min": 0,
+    "seed_price": 266,
+    "fruit_price": 54,
+    "yield_per_season": 21,
+    "exp_per_harvest": 23,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      180,
+      360,
+      540,
+      780,
+      1080
+    ],
+    "total_minutes": 1080,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        48,
+        66
+      ],
+      [
+        48,
+        66
+      ],
+      [
+        99,
+        106
+      ],
+      [
+        99,
+        106
+      ],
+      [
+        99,
+        106
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ed2b5ca"
+  },
+  {
+    "id": 27,
+    "pinyin": "ShiLiu",
+    "name": "石榴",
+    "level_required": 16,
+    "seasons": 3,
+    "reharvest_min": 1320,
+    "seed_price": 2425,
+    "fruit_price": 108,
+    "yield_per_season": 30,
+    "exp_per_harvest": 34,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      600,
+      1200,
+      1800,
+      2460,
+      3120
+    ],
+    "total_minutes": 3120,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        45,
+        71
+      ],
+      [
+        87,
+        79
+      ],
+      [
+        110,
+        106
+      ],
+      [
+        110,
+        106
+      ],
+      [
+        110,
+        106
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ed4f802"
+  },
+  {
+    "id": 28,
+    "pinyin": "LaJiao",
+    "name": "辣椒",
+    "level_required": 8,
+    "seasons": 1,
+    "reharvest_min": 540,
+    "seed_price": 296,
+    "fruit_price": 56,
+    "yield_per_season": 24,
+    "exp_per_harvest": 25,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      180,
+      420,
+      660,
+      900,
+      1200
+    ],
+    "total_minutes": 1200,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        61,
+        53
+      ],
+      [
+        104,
+        79
+      ],
+      [
+        105,
+        103
+      ],
+      [
+        114,
+        112
+      ],
+      [
+        114,
+        112
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1ed791ca"
+  },
+  {
+    "id": 29,
+    "pinyin": "LiZhi",
+    "name": "荔枝",
+    "level_required": 23,
+    "seasons": 4,
+    "reharvest_min": 1860,
+    "seed_price": 6588,
+    "fruit_price": 172,
+    "yield_per_season": 34,
+    "exp_per_harvest": 44,
+    "const_2_3_7": [
+      2,
+      3,
+      7
+    ],
+    "growth_stages_min": [
+      900,
+      1800,
+      2760,
+      3660,
+      4620
+    ],
+    "total_minutes": 4620,
+    "frame_sizes": [
+      [
+        55,
+        19
+      ],
+      [
+        60,
+        62
+      ],
+      [
+        106,
+        99
+      ],
+      [
+        106,
+        99
+      ],
+      [
+        106,
+        99
+      ],
+      [
+        106,
+        99
+      ],
+      [
+        99,
+        44
+      ],
+      [
+        70,
+        68
+      ]
+    ],
+    "t5appres_offset": "0x1eda4747"
+  }
+]
